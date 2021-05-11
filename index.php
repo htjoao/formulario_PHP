@@ -29,6 +29,7 @@ if ($idade >= 6 && $idade <= 12)
             echo "o nadador " . $nome . " compete na categoria infantil";
     }
 }
+
 else if($idade >= 13 && $idade <= 18)
 {
     for ($i= 0 ; $i <= count($categorias); $i++  )
