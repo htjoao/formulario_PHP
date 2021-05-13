@@ -1,5 +1,4 @@
 # formulario_PHP
-[![Build Status](https://travis-ci.com/htjoao/formulario_PHP.svg?branch=main)](https://travis-ci.com/htjoao/f)ormulario_PHP)
 
 Projeto para praticar PHP do curso D.I.O
 
